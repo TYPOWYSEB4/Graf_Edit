@@ -43,4 +43,4 @@
                                        <li>Jednolite tekstury barwników
                                        <li>Customowa czcionka</p></p>
                                    <strong>1.3 - 1.16.5</strong>
-                                       <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021
+                                       <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021 
