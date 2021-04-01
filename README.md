@@ -12,7 +12,7 @@
 
 # Instalacja Paczki
 
-<p>Aby zacząć korzystać z paczki należy pobrać ją z sekcji poniżej a następnie wrzucić ją do folderu <strong>.minecraft/resourcepacks</strong></p>                              
+<p>Aby zacząć korzystać z paczki należy pobrać ją z sekcji powyżej a następnie wrzucić ją do folderu <strong>.minecraft/resourcepacks</strong></p>                              
 <p>W celu pełnego wykorzystania możliwości paczki wymagany jest <strong><a href="https://optifine.net/downloads">Optifine</a></strong>. Aby go zainstalować wybieramy wersje i pobieramy, a następnie otwieramy plik i postępujemy zgodnie z instrukcjami.</p>
 <p>Aby pomyślnie go zainstalować konieczna będzie instalacja <strong><a href="https://java.com/en/download/">Oprogramowania Java</a></strong>. Jeśli nie będziemy go posiadali wyskoczy nam błąd. Instalacja przebiega podobnie jak przy instalacji Optifina.</p>
 <strong>Optifine: <a href="https://optifine.net/downloads">https://optifine.net/downloads</a></strong></p>
