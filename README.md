@@ -31,7 +31,7 @@
                                   <li>Customowe tekstury do różnych wersji Fajerwerek, Map i Zup</li>
                                   <li>Naprawa kilku wizualnych błędów
                                   
-                                  <strong>1.3 - 1.16.5</strong>
+                                  <p><strong>1.3 - 1.16.5</strong>
                                   <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021</li></p>
                                   <strong>1.2 - 1.16.5</strong>
                                        <li>Specjalna tekstura dla niewidzialnych itemframów
