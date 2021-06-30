@@ -29,9 +29,9 @@
                                   <li>Ramki do rud w wersji Deepslate</li>
                                   <li>Klasyczny wygląd strzał</li>
                                   <li>Customowe tekstury do różnych wersji Fajerwerek, Map i Zup</li>
-                                  <li>Naprawa kilku wizualnych błędów</li>
+                                  <li>Naprawa kilku wizualnych błędów
                                   
-                                  <br>
+                                  
                                   <strong>1.3 - 1.16.5</strong>
                                   <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021</li></p>
                                   <strong>1.2 - 1.16.5</strong>
