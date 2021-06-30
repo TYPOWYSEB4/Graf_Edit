@@ -20,7 +20,8 @@
                                 <strong>Java: <a href="https://java.com/en/download/">https://java.com/en/download/</a></strong>
                                 
 # Changelog
-<strong>1.4 - 1.17</strong>
+
+  <strong>1.4 - 1.17</strong>
                                   <li>Zaktualizowany ekran ładowania</li>
                                   <li>Zgodność z wersją 1.17</li>
                                   <li>Połączone przyciemniane szyby (Tinted Glass)</li>
@@ -31,9 +32,9 @@
                                   <li>Customowe tekstury do różnych wersji Fajerwerek, Map i Zup</li>
                                   <li>Naprawa kilku wizualnych błędów
                                   
-                                  <p><strong>1.3 - 1.16.5</strong>
+  <p><strong>1.3 - 1.16.5</strong>
                                   <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021</li></p>
-                                  <strong>1.2 - 1.16.5</strong>
+  <strong>1.2 - 1.16.5</strong>
                                        <li>Specjalna tekstura dla niewidzialnych itemframów
                                        <li>Lepsze enchantowane książki z klątwami
                                        <li>Widoczne zainfekowane bloki (z silverfishami)
@@ -47,11 +48,11 @@
                                        <li>Ładniejsza tekstura ognia dusz
                                        <li>Jednolite tekstury barwników
                                        <li>Customowa czcionka</p>
-                                  <strong>1.1 - 1.16.4</strong>
+  <strong>1.1 - 1.16.4</strong>
                                        <li>Dodanie tekstur i fixów z Vanilla Tweaks 
                                        <p><a href="https://vanillatweaks.net/share#KLl003">https://vanillatweaks.net/share#KLl003</a></li></p></p>
-                                    <strong>1.0 - 1.16.3</strong>
-                                    <li>Oryginalne nazewnictwo Netheritu
+  <strong>1.0 - 1.16.3</strong>
+                                       <li>Oryginalne nazewnictwo Netheritu
                                        <li>Ramki do rud dodane do Overlaya
                                        <li>Customowe tekstury na wszystkich enchantowanych książkach
                                        <li>Kompatybilność w menu wyboru resourcepacka</p></p>
