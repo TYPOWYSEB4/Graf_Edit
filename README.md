@@ -31,7 +31,6 @@
                                   <li>Customowe tekstury do różnych wersji Fajerwerek, Map i Zup</li>
                                   <li>Naprawa kilku wizualnych błędów
                                   
-                                  
                                   <strong>1.3 - 1.16.5</strong>
                                   <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021</li></p>
                                   <strong>1.2 - 1.16.5</strong>
@@ -47,7 +46,7 @@
                                        <li>Kierunkowe oznaczenia na Dispenserach i Dropperach
                                        <li>Ładniejsza tekstura ognia dusz
                                        <li>Jednolite tekstury barwników
-                                       <li>Customowa czcionka</p></p>
+                                       <li>Customowa czcionka</p>
                                   <strong>1.1 - 1.16.4</strong>
                                        <li>Dodanie tekstur i fixów z Vanilla Tweaks 
                                        <p><a href="https://vanillatweaks.net/share#KLl003">https://vanillatweaks.net/share#KLl003</a></li></p></p>
