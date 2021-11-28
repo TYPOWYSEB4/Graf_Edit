@@ -26,7 +26,7 @@
                                   <li>Customowe buckety z axolotlami
                                   <li>Oznaczenie włączenia i wyłączenia dźwigni
                                   <li>Naprawa małych wizualnych błędów
-  <strong>1.4 - 1.17</strong>
+  <p><strong>1.4 - 1.17</strong>
                                   <li>Zaktualizowany ekran ładowania</li>
                                   <li>Zgodność z wersją 1.17</li>
                                   <li>Połączone przyciemniane szyby (Tinted Glass)</li>
@@ -35,7 +35,7 @@
                                   <li>Ramki do rud w wersji Deepslate</li>
                                   <li>Klasyczny wygląd strzał</li>
                                   <li>Customowe tekstury do różnych wersji Fajerwerek, Map i Zup</li>
-                                  <li>Naprawa kilku wizualnych błędów
+                                  <li>Naprawa kilku wizualnych błędów</p>
                                   
   <p><strong>1.3 - 1.16.5</strong>
                                   <li>Dostosowanie paczki pod Overlay Grafa z Marca 2021</li></p>
