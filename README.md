@@ -1,15 +1,14 @@
 # Latest
-<a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.5%20-%201.18.zip?raw=true">Graf Edit 1.5 - 1.18</a><br>
+<a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.6%20-%201.18.1.zip?raw=true">Graf Edut 1.6 - 1.18.1</a><br>
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.4%20-%201.17.zip?raw=true">Graf Edit 1.4 - 1.17</a><br>
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.3%20-%201.16.5.zip?raw=true">Graf Edit 1.3 - 1.16.5</a>
 
 # Old
-
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.0%20-%201.16.3.zip?raw=true">Graf Edit 1.0 - 1.16.3</a>
-
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.1%20-%201.16.4.zip?raw=true">Graf Edit 1.1 - 1.16.4</a>
-
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.2%20-%201.16.5.zip?raw=true">Graf Edit 1.2 - 1.16.5</a>
+<a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.5%20-%201.18.zip?raw=true">Graf Edit 1.5 - 1.18</a>
+
 
 # Instalacja Paczki
 
@@ -20,6 +19,13 @@
                                 <strong>Java: <a href="https://java.com/en/download/">https://java.com/en/download/</a></strong>
                                 
 # Changelog
+  <strong>1.6 - 1.18.1</strong>
+                                  <li>Brak nakładki przy patrzeniu przez teleskop V2
+                                  <li>Widoczne zainfekowane bloki (z silverfishami) V2
+                                  <li>Customowe ikony przy nazwach enchantów
+                                  <li>Lepsza tekstura dla Rosnących Amethystów i Woskowanej Miedzi
+                                  <li>Zmiana kilku animowanych tekstur na statyczne w celu lepszej optymalizacji
+                                  <li>Customowe trójzęby i motyki
   <strong>1.5 - 1.18</strong>
                                   <li>Zaktualizowany ekran ładowania
                                   <li>Zgodność z wersją 1.18
