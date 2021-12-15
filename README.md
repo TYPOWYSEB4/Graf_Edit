@@ -1,5 +1,5 @@
 # Latest
-<a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.6%20-%201.18.1.zip?raw=true">Graf Edut 1.6 - 1.18.1</a><br>
+<a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.6%20-%201.18.1.zip?raw=true">Graf Edit 1.6 - 1.18.1</a><br>
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.4%20-%201.17.zip?raw=true">Graf Edit 1.4 - 1.17</a><br>
 <a href="https://github.com/TYPOWYSEB4/Graf_Edit/blob/main/%C2%A7eGraf%20Edit%20%C2%A7a1.3%20-%201.16.5.zip?raw=true">Graf Edit 1.3 - 1.16.5</a>
 
